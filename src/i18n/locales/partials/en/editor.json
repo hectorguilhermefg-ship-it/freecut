@@ -609,7 +609,14 @@
       "youtubeHint": "Roboto with a soft drop shadow, no box — the auto-captions vibe.",
       "boldYellowHint": "Roboto Slab in cinema yellow with a black drop shadow — DVD-era classic.",
       "outlinedHint": "Manrope with a hairline outline — clean, modern, no shadow.",
-      "tiktokHint": "Anton display, oversized and centered — vertical-video viral look."
+      "tiktokHint": "Anton display, oversized and centered — vertical-video viral look.",
+        "bebasImpactHint": "Bebas Neue, tall and bold with a thick outline — punchy short-form look.",
+      "neonGreenHint": "Poppins in neon green with a soft glow — high-energy, gaming and fitness.",
+      "pillWhiteHint": "Dark text on a white rounded pill — clean and modern.",
+      "markerYellowHint": "Black text on a yellow highlight bar — like a marker pass.",
+      "cinemaSerifHint": "Playfair Display italic in warm white — elegant, film-style.",
+      "popPinkHint": "Archivo Black on a hot-pink box — playful and loud.",
+      "scriptLobsterHint": "Lobster script with a soft shadow — friendly handwritten feel."
     },
     "alignment": {
       "left": "Align Left",
