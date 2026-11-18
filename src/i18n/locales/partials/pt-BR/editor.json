@@ -609,7 +609,14 @@
       "youtubeHint": "Roboto com uma sombra suave, sem caixa — o clima das legendas automáticas.",
       "boldYellowHint": "Roboto Slab em amarelo de cinema com sombra preta — clássico da era do DVD.",
       "outlinedHint": "Manrope com um contorno fino — limpo, moderno, sem sombra.",
-      "tiktokHint": "Fonte Anton, grande e centralizada — o visual viral do vídeo vertical."
+      "tiktokHint": "Fonte Anton, grande e centralizada — o visual viral do vídeo vertical.",
+      "bebasImpactHint": "Bebas Neue, tall and bold with a thick outline — punchy short-form look.",
+      "neonGreenHint": "Poppins in neon green with a soft glow — high-energy, gaming and fitness.",
+      "pillWhiteHint": "Dark text on a white rounded pill — clean and modern.",
+      "markerYellowHint": "Black text on a yellow highlight bar — like a marker pass.",
+      "cinemaSerifHint": "Playfair Display italic in warm white — elegant, film-style.",
+      "popPinkHint": "Archivo Black on a hot-pink box — playful and loud.",
+      "scriptLobsterHint": "Lobster script with a soft shadow — friendly handwritten feel."
     },
     "alignment": {
       "left": "Alinhar à esquerda",
