@@ -610,13 +610,13 @@
       "boldYellowHint": "Roboto Slab em amarelo de cinema com sombra preta — clássico da era do DVD.",
       "outlinedHint": "Manrope com um contorno fino — limpo, moderno, sem sombra.",
       "tiktokHint": "Fonte Anton, grande e centralizada — o visual viral do vídeo vertical.",
-      "bebasImpactHint": "Bebas Neue, tall and bold with a thick outline — punchy short-form look.",
-      "neonGreenHint": "Poppins in neon green with a soft glow — high-energy, gaming and fitness.",
-      "pillWhiteHint": "Dark text on a white rounded pill — clean and modern.",
-      "markerYellowHint": "Black text on a yellow highlight bar — like a marker pass.",
-      "cinemaSerifHint": "Playfair Display italic in warm white — elegant, film-style.",
-      "popPinkHint": "Archivo Black on a hot-pink box — playful and loud.",
-      "scriptLobsterHint": "Lobster script with a soft shadow — friendly handwritten feel."
+      "bebasImpactHint": "Bebas Neue, alta e forte com contorno grosso — visual impactante de vídeo curto.",
+      "neonGreenHint": "Poppins em verde neon com brilho suave — cheia de energia, ótima para games e fitness.",
+      "pillWhiteHint": "Texto escuro numa pílula branca arredondada — limpo e moderno.",
+      "markerYellowHint": "Texto preto sobre uma faixa amarela de marca-texto.",
+      "cinemaSerifHint": "Playfair Display em itálico, branco quente — elegante, estilo cinema.",
+      "popPinkHint": "Archivo Black sobre caixa rosa choque — divertida e chamativa.",
+      "scriptLobsterHint": "Letra manuscrita Lobster com sombra suave — jeito amigável e descontraído."
     },
     "alignment": {
       "left": "Alinhar à esquerda",
